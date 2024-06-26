@@ -1,8 +1,54 @@
-# React + Vite
+# Pizzeria
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción del Proyecto :scroll:
 
-Currently, two official plugins are available:
+Proyecto donde se validan conocimientos de ...
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Sobre el proyecto 🚀
+
+### Contexto ficticio: 
+
+...
+
+
+### ✨ Requerimientos ✨
+
+👌 1.  ....
+
+👉 Enlaces de interés: 
+- BrowserRouter: https://reactrouter.com/en/main/router-components/browser-router
+- Routes y Router: https://reactrouter.com/en/main/start/concepts#defining-routes
+- Navegación: https://reactrouter.com/en/main/start/concepts#navigating
+
+
+
+### Prerrequisitos 📋
+
+Lista de software y herramientas, incluyendo versiones, que necesitas para instalar y ejecutar este proyecto:
+
+ "dependencies": 
+ - bootstrap
+ - react
+ - react-bootstrap
+ - react-dom
+ - react-router-dom
+
+"devDependencies": 
+ - eslint
+ - vite
+
+### Instalación 🔧
+
+ Instala en terminal:
+- npm init --yes
+- npm i
+- npm run dev
+
+
+## Visuales :mage_woman:
+
+
+
+## Autor ⚡ 
+
+- **Andrea Rosero** ⚡  - [Andrea Rosero](https://github.com/andreaendigital)
